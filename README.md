@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋😃, I'm Innis</h1>
 <h3 align="center">A passionate full stack developer from China</h3>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yuenci/yuenci/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 
