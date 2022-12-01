@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋😃, I'm Innis</h1>
 <h3 align="center">A passionate full stack developer from China</h3>
-![snake gif](https://github.com/yuenci/yuenci/blob/output/github-contribution-grid-snake.gif)
 
+<img align="center" alt="img" src="https://github.com/yuenci/yuenci/blob/output/github-contribution-grid-snake.gif"/>
 <br>
 
 <img align="right" alt="img" src="https://github.com/yuenci/yuenci.github.io/blob/main/img/profile_pic_Innis.png" width="40%" height="auto" />
