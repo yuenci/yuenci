@@ -26,14 +26,7 @@
 
 - ⚡ Fun fact **I often forget to sleep because I am in programming!!**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuenci&show_icons=true&locale=en" alt="yuenci" /></p>  
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuenci&" alt="yuenci" /></p>  
-
 <br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,11 +38,12 @@
 
 <br>
 
-<h3 align="left">My projects:</h3>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=What-does-this-code-mean)
+<p>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuenci&show_icons=true&locale=en" alt="yuenci" /></a>  
+<a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yuenci&" alt="yuenci" /></a>  
+</p>  
 
 <br>
 
@@ -57,6 +51,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuenci&show_icons=true&locale=en&layout=compact" alt="yuenci" /></p>  
 
 <p align="left">
+    <ul>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /></a>
@@ -129,7 +124,17 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /></a>
+        </ul>
 </p>
+
+<br>
+
+
+<h3 align="left">My projects:</h3>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=What-does-this-code-mean)
 
 <br>
 
