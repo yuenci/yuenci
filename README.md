@@ -10,7 +10,11 @@
 
 
 
-<h3 align="left">👋 Introduction:</h3>
+<h3 align="left">
+     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    Introduction:
+
+</h3>
 
 - 🔭 I’m currently working on **A note-taking software**
 
