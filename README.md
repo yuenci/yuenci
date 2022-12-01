@@ -61,7 +61,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuenci&show_icons=true&locale=en&layout=compact" alt="yuenci" /></p>  
 
 <p align="left">
-    <ul>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /></a>
@@ -134,7 +133,6 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /></a>
-        </ul>
 </p>
 
 <br>
