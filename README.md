@@ -3,14 +3,14 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuenci&label=Profile%20views&color=0e75b6&style=flat" alt="yuenci" /> </p>
-
-
-[<img src="https://img.shields.io/github/followers/yuenci?label=follow&style=social" height="22" title="Follow me" />](https://github.com/yuenci) 
-
 <img align="right" alt="img" src="https://github.com/yuenci/yuenci.github.io/blob/main/img/profile_pic_Innis.png" width="40%" height="auto" />
 
 
+![Status](https://img.shields.io/badge/status-up-brightgreen)![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=InnisYu&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/yuenci)![](https://img.shields.io/github/followers/yuenci?style=social)
+
+
+
+<h3 align="left">👋 Introduction:</h3>
 
 - 🔭 I’m currently working on **A note-taking software**
 
@@ -28,7 +28,17 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+
+<p>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuenci&show_icons=true&locale=en" alt="yuenci" /></a>  
+<a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yuenci&" alt="yuenci" /></a>  
+</p>  
+
+<br>
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yuenci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yuenci" height="30" width="40" /></a>
 <a href="https://twitter.com/yuenci3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuenci3" height="30" width="40" /></a>
@@ -40,14 +50,7 @@
 
 
 
-<p>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuenci&show_icons=true&locale=en" alt="yuenci" /></a>  
-<a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yuenci&" alt="yuenci" /></a>  
-</p>  
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚡ Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuenci&show_icons=true&locale=en&layout=compact" alt="yuenci" /></p>  
 
 <p align="left">
@@ -130,7 +133,17 @@
 <br>
 
 
-<h3 align="left">My projects:</h3>
+<h3 align="left">🕹️ My projects:</h3>
+
+<p>
+    <a>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+    </a>  
+    <a>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+    </a>  
+</p>
+
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System)
 
@@ -138,6 +151,6 @@
 
 <br>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">❤️ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yuenci1575c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yuenci1575c" /></a></p><br><br>
 
