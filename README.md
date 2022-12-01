@@ -133,7 +133,7 @@
 <br>
 
 
-<h3 align="left">🕹️ My projects:</h3>
+<h3 align="left">🚀 My projects:</h3>
 
 <p align="left">
     <a align="left" href="https://github.com/yuenci/Java-Cafeteria-Ordering-System-demo" target="_blank" >
