@@ -135,22 +135,27 @@
 
 <h3 align="left">🕹️ My projects:</h3>
 
-<p>
-    <a>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+<p align="left">
+    <a align="left" href="https://github.com/yuenci/Java-Cafeteria-Ordering-System-demo" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
     </a>  
-    <a>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+    <a align="left" href="https://github.com/yuenci/What-does-this-code-mean" target="_blank" >
+        <img  src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
     </a>  
-</p>
+</p>  
 
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=What-does-this-code-mean)
+<!-- <p  align="left">
+    <a align="left">
+        <img  src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+    </a>  
+    <a align="left">
+        <img  src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
+    </a>  
+</p>   -->
 
 <br>
 
 <h3 align="left">❤️ Support:</h3>
+
 <p><a href="https://www.buymeacoffee.com/yuenci1575c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yuenci1575c" /></a></p><br><br>
 
