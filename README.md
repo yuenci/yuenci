@@ -8,7 +8,7 @@
 <img align="right" alt="img" src="https://github.com/yuenci/yuenci.github.io/blob/main/img/profile_pic_Innis.png" width="40%" height="auto" />
 
 
-![Status](https://img.shields.io/badge/status-up-brightgreen)![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=InnisYu&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/yuenci)![](https://img.shields.io/github/followers/yuenci?style=social)
+![Status](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=InnisYu&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/yuenci)![](https://img.shields.io/github/followers/yuenci?style=social)
 
 
 
