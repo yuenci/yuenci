@@ -159,6 +159,18 @@
     </a>  
 </p>   -->
 
+<h4 align="left">🌊 Algorithm:</h4>
+<p align="left">
+    <a align="left" href="https://github.com/yuenci/Java-Median-Cut" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Java-Median-Cut" alt="yuenci" />
+    </a>  
+    <a align="left" href="https://github.com/yuenci/Rete-algorithm" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Rete-algorithm" alt="yuenci" />
+    </a>  
+</p>  
+
+
+
 <br>
 
 <h3 align="center">❤️ Support:</h3>
