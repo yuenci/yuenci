@@ -142,7 +142,7 @@
 <h3 align="left">🚀 My projects:</h3>
 
 <p align="left">
-    <a align="left" href="https://github.com/yuenci/Java-Cafeteria-Ordering-System-demo" target="_blank" >
+    <a align="left" href="https://github.com/yuenci/Laptop-Repair-Services-Management-System" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
     </a>  
     <a align="left" href="https://github.com/yuenci/What-does-this-code-mean" target="_blank" >
