@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 👨‍💻 All of my projects are to make the world a better and better.
+- 👨‍💻 All of my projects are to make the world  better and better.
 
 - 📝 I regularly write articles on [https://www.enjoycoding.me/](https://www.enjoycoding.me/)
 
