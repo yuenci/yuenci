@@ -145,6 +145,9 @@
      <a align="left" href="https://github.com/yuenci/Java-Car-Rental-System" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Java-Car-Rental-System" alt="yuenci" />
     </a>  
+     <a align="left" href="https://github.com/yuenci/NFTarts" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=NFTarts" alt="yuenci" />
+    </a>  
     <a align="left" href="https://github.com/yuenci/Laptop-Repair-Services-Management-System" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Laptop-Repair-Services-Management-System" alt="yuenci" />
     </a>  
@@ -154,9 +157,7 @@
      <a align="left" href="https://github.com/yuenci/Sportman" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Sportman" alt="yuenci" />
     </a>  
-     <a align="left" href="https://github.com/yuenci/NFTarts" target="_blank" >
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=NFTarts" alt="yuenci" />
-    </a>  
+     
      <a align="left" href="https://github.com/yuenci/Github-Issues-Collector" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Github-Issues-Collector" alt="yuenci" />
     </a>  
