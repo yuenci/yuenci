@@ -157,7 +157,6 @@
      <a align="left" href="https://github.com/yuenci/Sportman" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Sportman" alt="yuenci" />
     </a>  
-     
      <a align="left" href="https://github.com/yuenci/Github-Issues-Collector" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Github-Issues-Collector" alt="yuenci" />
     </a>  
