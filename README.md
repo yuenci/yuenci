@@ -191,7 +191,12 @@
     </a>  
 </p>  
 
-
+<h4 align="left">🕹️ Games:</h4>
+<p align="left">
+    <a align="left" href="https://github.com/yuenci/Feud" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Feud" alt="yuenci" />
+    </a>  
+</p> 
 
 
 <br>
