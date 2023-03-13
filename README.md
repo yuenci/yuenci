@@ -191,8 +191,10 @@
     </a>  
     <a align="left" href="https://github.com/yuenci/Firebase-Api-Encapsulation" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Firebase-Api-Encapsulation" alt="yuenci" />
+    </a>
+     <a align="left" href="https://github.com/yuenci/Github-Gist-API-Encapsulation" target="_blank" >
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=yuenci&repo=Github-Gist-API-Encapsulation" alt="yuenci" />
     </a>  
-    
 </p>  
 
 <h4 align="left">🕹️ Games:</h4>
